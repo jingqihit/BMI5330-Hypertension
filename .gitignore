@@ -1,0 +1,6 @@
+ALL.wgs.integrated_phase1_v3.20101123.snps_indels_sv.sites.vcf
+gencode.v19.annotation.gff3
+gene_annotation.bed
+gene_overlap.txt
+gene_varient.bed
+.ipynb_checkpoints
